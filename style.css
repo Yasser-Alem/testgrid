@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    display: grid;
+    grid-template-columns:repeat(auto-fit, minmax(300px, auto));
+    gap: 10px;
+}
+
+.BLOC{
+    background: wheat;
+    border: 2px black solid;
+    width: 200px;
+}
+
+
